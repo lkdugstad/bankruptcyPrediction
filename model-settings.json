@@ -1,0 +1,8 @@
+{
+    "name": "bankrupt-sklearn",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "./Bankruptcy_XGBoost.joblib",
+        "version": "v1"
+    }
+}
